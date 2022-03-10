@@ -24,10 +24,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-6">
-                    <h1>Modification non apportée par Hotfix</h1>
+                    <h1 style="color: green;">Modification apportée par Hotfix</h1>
                 </div>
                 <div class="col-6">
-                    <h1 style="color: green;">Modifcation apportée par Feature</h1>
+                    <h1>Modifcation non apportée par Feature</h1>
                 </div>
             </div>
         </div>
