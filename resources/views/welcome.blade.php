@@ -21,7 +21,7 @@
         </style>
     </head>
     <body class="antialiased">
-        <div class="container" data-test="custom value">
+        <div class="container" style="background-color: rgb(238, 238, 238);" data-test="custom value">
             <div class="row">
                 <div class="col-6">
                     <h1 style="color: green;">Modification apportée par Hotfix</h1>
