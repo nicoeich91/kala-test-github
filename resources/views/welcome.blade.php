@@ -29,7 +29,6 @@
                 <div class="col-6">
                     <h1 style="color: green;">Modifcation apportée par Feature</h1>
                     <h1>Un tite en plus de la nouvelle feature</h1>
-                    <p>Merge à supprimer</p>
                 </div>
             </div>
         </div>
